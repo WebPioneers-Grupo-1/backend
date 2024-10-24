@@ -10,7 +10,7 @@ Take My Car Platform API is a RESTful API that provides the necessary endpoints 
 - Microsoft.EntityFrameworkCore
 - Microsoft.EntityFrameworkCore.Relational
 - Microsoft.EntityFrameworkCore.Design
-- Swashbuckle.AspNetCore (Generador de documentacion de Swagger)
+- Swashbuckle.AspNetCore
 - Swashbuckle.AspNetCore.Annotations
 - MySQL.Entity.Framework
 - CreatedUpdatedDate
