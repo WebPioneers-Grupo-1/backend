@@ -1,7 +1,7 @@
-﻿using CatchUpPlatform.API.Shared.Interfaces.ASP.Configuration.Extensions;
+﻿using TakeMyCarPlatform.API.Shared.Interfaces.ASP.Configuration.Extensions;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
 
-namespace CatchUpPlatform.API.Shared.Interfaces.ASP.Configuration
+namespace TakeMyCarPlatform.API.Shared.Interfaces.ASP.Configuration
 {
     public class KebabCaseRouteNamingConvention : IControllerModelConvention
     {

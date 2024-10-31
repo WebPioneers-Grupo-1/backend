@@ -1,9 +1,10 @@
-﻿using CatchUpPlatform.API.News.Domain.Model.Aggregates;
-using CatchUpPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
+﻿using TakeMyCarPlatform.API.CarManagement.Domain.Model.Aggregates;
+using TakeMyCarPlatform.API.CarRental.Domain.Model.Aggregates;
+using TakeMyCarPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions;
 using EntityFrameworkCore.CreatedUpdatedDate.Extensions;
 using Microsoft.EntityFrameworkCore;
 
-namespace CatchUpPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration
+namespace TakeMyCarPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration
 {
     public class AppDbContext(DbContextOptions options) : DbContext(options)
     {

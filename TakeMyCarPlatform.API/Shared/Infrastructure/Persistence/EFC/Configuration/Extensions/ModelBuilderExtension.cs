@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace CatchUpPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions
+namespace TakeMyCarPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration.Extensions
 {
     public static class ModelBuilderExtension
     {

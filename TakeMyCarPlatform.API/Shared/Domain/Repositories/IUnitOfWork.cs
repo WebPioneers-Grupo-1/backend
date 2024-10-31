@@ -1,4 +1,4 @@
-﻿namespace CatchUpPlatform.API.Shared.Domain.Repositories
+﻿namespace TakeMyCarPlatform.API.Shared.Domain.Repositories
 {
     public interface IUnitOfWork
     {

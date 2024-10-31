@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace CatchUpPlatform.API.Shared.Interfaces.ASP.Configuration.Extensions
+namespace TakeMyCarPlatform.API.Shared.Interfaces.ASP.Configuration.Extensions
 {
     public static partial class StringExtensions
     {

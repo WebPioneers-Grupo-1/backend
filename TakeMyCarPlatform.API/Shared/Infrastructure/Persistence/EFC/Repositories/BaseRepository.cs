@@ -1,8 +1,8 @@
-﻿using CatchUpPlatform.API.Shared.Domain.Repositories;
-using CatchUpPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration;
+﻿using TakeMyCarPlatform.API.Shared.Domain.Repositories;
+using TakeMyCarPlatform.API.Shared.Infrastructure.Persistence.EFC.Configuration;
 using Microsoft.EntityFrameworkCore;
 
-namespace CatchUpPlatform.API.Shared.Infrastructure.Persistence.EFC.Repositories
+namespace TakeMyCarPlatform.API.Shared.Infrastructure.Persistence.EFC.Repositories
 {
     public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : class
     {
